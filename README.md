@@ -2,7 +2,9 @@
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning networking
 - 💞️ I’m looking to collaborate on github tools
-- 📫 How to reach me, mail.
+- 📫 How to reach me, twitter (knightdark_777) and instagram ().
+
+Reach me @acelakshitverma on Twitter/Instagram
 
 <!---
 knightdark777/knightdark777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
